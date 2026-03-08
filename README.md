@@ -26,8 +26,3 @@ I enjoy building projects and improving my programming skills.
 - Build more real-world projects
 - Learn better software architecture
 - Improve backend and database knowledge
-
----
-
-## 📊 GitHub Stats
-![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
