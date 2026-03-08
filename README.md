@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kristian 👋
 
-<!--
-**KristiqnAntonov/KristiqnAntonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer focused on backend and web development.  
+I enjoy building projects and improving my programming skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- C#
+- .NET
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🚀 What I'm Working On
+- Building web applications
+- Learning backend development
+- Improving software development skills
+
+---
+
+## 📌 Goals
+- Build more real-world projects
+- Learn better software architecture
+- Improve backend and database knowledge
+
+---
+
+## 📊 GitHub Stats
+![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
