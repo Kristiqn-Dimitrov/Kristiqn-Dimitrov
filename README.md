@@ -1,4 +1,4 @@
-# Hi, I'm Kristian 👋
+# Hi, I'm Kristiqn 👋
 
 Aspiring software developer focused on backend and web development.  
 I enjoy building projects and improving my programming skills.
